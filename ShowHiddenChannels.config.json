@@ -1,0 +1,28 @@
+{
+    "currentVersionInfo": {
+        "version": "0.2.3",
+        "hasShownChangelog": true
+    },
+    "collapsed": {
+        "607202024735506443_hidden": true
+    },
+    "settings": {
+        "hiddenChannelIcon": "eye",
+        "sort": "native",
+        "showPerms": true,
+        "showAdmin": "channel",
+        "MarkUnread": false,
+        "shouldShowEmptyCategory": true,
+        "alwaysCollapse": false,
+        "debugMode": false,
+        "channels": {
+            "GUILD_TEXT": true,
+            "GUILD_VOICE": true,
+            "GUILD_ANNOUNCEMENT": true,
+            "GUILD_STORE": true,
+            "GUILD_STAGE_VOICE": true,
+            "GUILD_FORUM": true
+        },
+        "blacklistedGuilds": {}
+    }
+}
